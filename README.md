@@ -81,8 +81,10 @@
 
 
 
+</p>
 
-
+<p align="center">
+<a href="">
  <img align="center" src="https://github.com/Shreyajadhavpatil/Shreyajadhavpatil/blob/main/Assets/thanks.gif" width=1000px height="500px" >
   </p>
                                                                                               
