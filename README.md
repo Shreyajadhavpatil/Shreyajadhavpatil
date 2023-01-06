@@ -61,16 +61,16 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shreyajadhavpatil" alt="shreyajadhavpatil" />
+    <img src="https://github-profile-trophy.vercel.app/?username=shreyajadhavpatil" alt="shreyajadhavpatil"  />
   </a> 
 
 
 <a href ="https://github.com/Shreyajadhavpatil" title="Redirect's to Shreyajadhavpatil Github">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=shreyajadhavpatil&show_icons=true&locale=en" alt="shreyajadhavpatil" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=shreyajadhavpatil&show_icons=true&locale=en" alt="shreyajadhavpatil" width="50%" />
   </a>
 
 <a href ="https://github.com/Shreyajadhavpatil" title="Redirect's to Shreyajadhavpatil Github">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyajadhavpatil&" alt="shreyajadhavpatil" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyajadhavpatil&" alt="shreyajadhavpatil"  width="50%"/>
   </a>
 
 
