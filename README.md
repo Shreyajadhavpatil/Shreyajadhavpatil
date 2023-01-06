@@ -66,17 +66,19 @@
 
 
 <a href ="https://github.com/Shreyajadhavpatil" title="Redirect's to Shreyajadhavpatil Github">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=shreyajadhavpatil&show_icons=true&locale=en" alt="shreyajadhavpatil" width="50%" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=shreyajadhavpatil&show_icons=true&locale=en" alt="shreyajadhavpatil" />
   </a>
 
 <a href ="https://github.com/Shreyajadhavpatil" title="Redirect's to Shreyajadhavpatil Github">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyajadhavpatil&" alt="shreyajadhavpatil"  width="50%"/>
-  </a>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyajadhavpatil&" alt="shreyajadhavpatil" />
+  </a>	
 
 
 <a href ="https://github.com/Shreyajadhavpatil" title="Redirect's to Shreyajadhavpatil Github">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyajadhavpatil&show_icons=true&locale=en&layout=compact" alt="shreyajadhavpatil" />
   </a>
+	
+
   
 
 
@@ -85,7 +87,7 @@
 
 <p align="center">
 <a href="">
- <img align="center" src="https://github.com/Shreyajadhavpatil/Shreyajadhavpatil/blob/main/Assets/thanks.gif" width=1000px height="500px" >
+ <img align="center" src="https://github.com/Shreyajadhavpatil/Shreyajadhavpatil/blob/main/Assets/thanks.gif" width="1000px" height="500px" >
   </p>
                                                                                               
 
